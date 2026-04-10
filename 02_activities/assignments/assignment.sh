@@ -57,8 +57,6 @@ rm ./data/processed/user_logs/*ipaddr*
 touch ./data/inventory.txt 
 ls ./data/processed/* >> ./data/inventory.txt
 
-# done
-
 ###########################################
 
 echo "Project setup is complete!"
